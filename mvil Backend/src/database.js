@@ -5,7 +5,7 @@ const pool = mysql.createPool({
     host: 'localhost',
     port: '3306', // Reemplaza 'tu_puerto' con el puerto real de MySQL si es diferente al predeterminado (3306)
     user: 'root',
-    password: 'danirachampo',
+    password: 'andrearoman',
     database: 'movildentista'
 });
 
